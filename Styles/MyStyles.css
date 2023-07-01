@@ -12,8 +12,8 @@
   font-size: 1.25rem;
 }
 .overviewbox {
-  background-color: #f8dcf3;
-  box-shadow: 10px 10px rgb(168, 139, 176);
+  background-color: #f7f3f6;
+  box-shadow: 10px 10px rgb(180, 167, 184);
   position: relative;
   padding-left: .625rem;
   padding-right: .625rem;
@@ -185,8 +185,8 @@ div.desc {
   color: #3d154a;
 }
 .overviewbox2 {
-  background-color: #f8dcf3;
-  box-shadow: 10px 10px rgb(168, 139, 176);
+  background-color: #f2eef1;
+  box-shadow: 10px 10px rgb(231, 205, 238);
   position: relative;
   padding-left: .625rem;
   padding-right: .625rem;
