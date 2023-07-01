@@ -12,7 +12,7 @@
   font-size: 1.25rem;
 }
 .overviewbox {
-  background-color: #f7f3f6;
+  background-color: #f9d3f0;
   box-shadow: 10px 10px rgb(180, 167, 184);
   position: relative;
   padding-left: .625rem;
@@ -29,7 +29,7 @@
   color: #22042b;
 }
 header.masthead .site-heading {
-  color: rgb(246, 244, 247);
+  color: rgb(238, 229, 242);
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 header.masthead .site-heading .subheading {
@@ -185,8 +185,8 @@ div.desc {
   color: #3d154a;
 }
 .overviewbox2 {
-  background-color: #f2eef1;
-  box-shadow: 10px 10px rgb(231, 205, 238);
+  background-color: #d7f2fa;
+  box-shadow: 10px 10px rgb(132, 180, 222);
   position: relative;
   padding-left: .625rem;
   padding-right: .625rem;
